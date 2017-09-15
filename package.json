@@ -5,7 +5,7 @@
     "email": "1053589702@qq.com"
   },
   "_npmVersion": "4.1.2",
-  "_resolved": "https://registry.npmjs.org/image-min-plugin/-/image-min-plugin-1.0.2.tgz",
+  "_resolved": "https://registry.npmjs.org/img-loader/-/img-loader-1.0.2.tgz",
   "_shasum": "f112404755bef9f886964d820e7e709f676e2a07",
   "dependencies": {
     "chalk": "^2.1.0"
@@ -21,15 +21,13 @@
     "gulp-run-command": "0.0.9",
     "rimraf": "^2.6.2"
   },
-  "maintainers": [
-    {
-      "name": "xiangxiang",
-      "email": "1053589702@qq.com"
-    }
-  ],
-  "name": "image-min-plugin",
+  "maintainers": [{
+    "name": "xiangxiang",
+    "email": "1053589702@qq.com"
+  }],
+  "name": "img-loader",
   "scripts": {
     "build": "gulp build"
   },
-  "version": "1.0.2"
+  "version": "0.1.0"
 }
